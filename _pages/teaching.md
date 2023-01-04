@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: workshops
+title: seminarios
 description: Materials for courses 
 nav: true
 nav_order: 4
