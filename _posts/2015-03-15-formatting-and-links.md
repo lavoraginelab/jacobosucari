@@ -1,30 +1,79 @@
 ---
 layout: post
-title:  a post with formatting and links
-date:   2015-03-15 16:40:16
-description: march & april, looking forward to summer
-tags: formatting links
+title: 'la ciudad transformada (DVD)'
+date: 2022-07-15 15:09:00
+description: an example of a blog post with some code
+tags: formatting code
 categories: sample-posts
 ---
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
 
-#### Hipster list
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
+# LA CIUDAD TRANSFORMADA. (DVD)
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+![](https://www.jacobosucari.com/webyep-system/data/userfiles/images/background_interior_3.jpg)
 
-<hr>
+## La Ciudad Transformada:
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+Un proyecto de Jacobo Sucari sobre transformación urbana y patrimonio industrial.
 
-<blockquote>
-    We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-    —Anais Nin
-</blockquote>
+Los trabajos documentales que se presentan en el DVD "La Ciudad Transformada" reflexionan sobre el desarrollo urbano y los violentos cambios que esta transformación genera en el paisaje y en sus habitantes.  
+Sus protagonistas son el antiguo barrio de fábricas y talleres del Poblenou y el espacio fabril de Can Ricart, que se han erigido en símbolo de la Barcelona industrial y obrera del siglo pasado y en espejo de la transformación actual de la ciudad hacia nuevas maneras de entender el urbanismo contemporáneo y el patrimonio industrial.
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+## Contenido del DVD:
+- Documental “Destruir y construir, historia de una fábrica”, 56 min. (2011)  
+- Documental " La lucha por el espacio urbano ", 59 min. (2006)  
+Extras:  
+- La ciudad transformada: Instalación- Documental expandido. Caixaforum (2008).  3:20 min.  
+- Antiguas fábricas del Poblenou. 3 min.
+
+## Sinopsis y Ficha técnica:  
+1. Documental “Destruir y construir, historia de una fábrica”:**  
+Versión original  catalán. Subtítulos en castellano e inglés.
+
+    **\* Sinopsis:**  
+“Destruir y construir, historia de una fábrica”.  
+Tras un largo conflicto y gracias a la presión de diversos grupos de activistas sociales, el antiguo espacio fabril de Can Ricart se salvó del derribo al que estaba condenado por los planes de transformación urbana que afectaban al barrio industrial del Poble Nou, en la ciudad de Barcelona.  
+Abandonado durante años, el espacio se convierte en un recinto de procesión  ciudadana, en un escenario de la memoria donde afloran las transformaciones de mundos y formas que ya no existen (producción fordiana y mundo obrero).  
+Con el comienzo de las obras del futuro Museo de la “Casa de las Lenguas” que proyecta el conocido estudio de arquitectura “EMBT” de los arquitectos Enriq Miralles y  Benedetta Tagliabue, afloran las diversas capas de tierra que se superponen en el tiempo de un escenario continuamente transitado. Romanos, revolución industrial, mundo obrero, resistencia social, un escenario donde se ponen en juego dinámicas contrapuestas e intereses que generan nuevas acciones y pasiones, reflejo de las luchas y deseos del teatro social sobre un espacio que parece resistirse a su transformación.  
+Destruir i construir, en una rueda que no cesa, parece ser la ardua tarea de hombres y mujeres.
+
+  
+1. Documental "La lucha por el espacio urbano", 59 min. (2006)**  
+      Versión original  catalán y castellano. Subtítulos en castellano e inglés.
+
+## Sinopsis
+
+>“La lucha por el espacio urbano”  
+
+El documental sitúa los violentos cambios que genera el desarrollo urbano en los paisajes y en los habitantes del barrio del “Poblenou” de Barcelona.  
+Este antiguo barrio de fábricas y talleres, está afectado por un profundo proceso de transformación como consecuencia del Plan de remodelación del Ayuntamiento conocido como 22@, que prevé convertir el Poble Nou en un importante centro ligado a nuevas tecnologías punta y a servicios.  
+“La lucha por el espacio urbano” muestra las formas de respuesta de distintas asociaciones vecinales, trabajadores de fábricas en deslocalización, artistas que comparten talleres y Okupas que actúan en el territorio.  
+El documental se introduce en todo este tejido social reflejando el conflicto entre lo nuevo y lo viejo, entre el patrimonio como memoria social y el progreso como un bello ángel destructor.
+
+  
+## Ficha Técnica
+
+Protagonistas:  
+
+Josep M. Montaner, Joan Marca, Joan Callis, Benedetta Tagliabue, Josep Saldaña, Diego López, Salvador Clarós, Laura Sagristà, Maria Carme Carmona, Montserrat Villaverde, Mercè Tatjer, Antoni Mir, Lourdes Moret.
+
+  
+Equipo técnico.  
+Producción                                                    La Trinxera i Catalunya TV.  
+Guió i dirección                                             Jacobo Sucari  
+Producción                                                    Pep Masias  
+Producción executiva TVC                           Jordi Ambrós  
+Ayudante de dirección i documentación   Germán Lázaro  
+Director de fotografía                                     Germán Regueira  
+Cámara                                                          Jacobo Sucari Germán Regueira  
+So directo i diseño de audio                          Luca Rullo Fidalgo  
+Música original                                              Tom Johnson  
+Edición                                                          Jacobo Sucari  
+Etalonaje digital                                            Gloria Martí  
+Grafismo                                                        Pedro Hugo  
+Tratamiento fotográfico                                Eva Merino  
+Cámara adicional                                           Xavier Hurtado  
+Año de producción                                        2011  
+Duración                                                        56 min.
+
+
+Con la colaboración de “Linguamón - Casa de les llengües”, “Hangar (AAVV)” y “ICIC, Generalitat de Catalunya”.
