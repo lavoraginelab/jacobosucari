@@ -2,8 +2,8 @@
 layout: page
 permalink: /publications/
 title: publicaciones
-description: Publicaciones en orden cronológico. generadas por jekyll-scholar.
-years: [2013, 2015, 2017, 1935, 1905]
+description: Publicaciones académicas, libros, artículos y textos.
+years: [2022, 2021, 2017, 2015, 2013, 2011, 2010]
 nav: true
 nav_order: 1
 ---

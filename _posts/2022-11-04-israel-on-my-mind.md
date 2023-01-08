@@ -30,7 +30,7 @@ Israel – Barcelona: 2018 – 2020.
 ## Viajes imaginarios nº 3.
 ### Sinopsis.
 
-*Israel on my mind* es una película que indaga sobre el pasado, el presente y el futuro de Israel. Un territorio sumido en guerra desde hace más de setenta años, y en medio de una coyuntura local muy compleja. Dos ciudadanos israelíes nos relatan su anclaje en esta tierra de ardiente intensidad e iluminaciones desbastadoras.
+*Israel on my mind* ~~es~~ una película que indaga sobre el pasado, el presente y el futuro de Israel. Un territorio sumido en guerra desde hace más de setenta años, y en medio de una coyuntura local muy compleja. Dos ciudadanos israelíes nos relatan su anclaje en esta tierra de ardiente intensidad e iluminaciones desbastadoras.
 
 *Israel on my mind* es el tercer capítulo de los “Viajes imaginarios”, una serie de indagación antropológica de carácter audiovisual que se mueve por territorios que piden ser descubiertos a través del lenguaje de sus habitantes: construcción de un relato entre la historia, sus imaginarios sociales y sus hablantes.
 
