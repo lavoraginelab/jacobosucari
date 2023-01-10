@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Documental: AKHA a la frontera'
-date: 2022-08-28 21:01:00
+date: 2022-07-28 21:01:00
 description: "'Akha a la frontera' és el testimoni de la desaparició d'una forma de vida ancestral, la vida de ritme natural i enganxada a la pell del planeta."
 categories: documentales tailandia
 ---
