@@ -2,10 +2,10 @@
 layout: page
 title: documentales
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Documentales, instalaciones y videos.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [documental, instalacion, creacion]
 horizontal: false
 ---
 
@@ -23,6 +23,7 @@ horizontal: false
     <div class="row row-cols-2">
     {%- for project in sorted_projects -%}
       {% include projects_horizontal.html %}
+      
     {%- endfor %}
     </div>
   </div>

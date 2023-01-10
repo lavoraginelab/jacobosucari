@@ -8,7 +8,7 @@ Cada paisaje pende de otro de una manera sutil,
 a la manera que el tiempo, de las memorias.'
 img: assets/img/los_paisajes_artificiales.jpg
 importance: 2
-category: work
+category: instalacion
 ---
 
 - Los Paisajes Artificiales. (2018).
