@@ -7,9 +7,15 @@ Sin embargo, parecemos no saciarnos y acumulamos esa fuerza en un intento desesp
 img: assets/img/En-la-interior-bodega.jpg
 importance: 3
 category: instalacion
-
-
+vimeoId: https://vimeo.com/148328189
 ---
+
+<hr />
+{% include vimeoPlayer.html id=page.vimeoId %}
+<hr />
+
+Descargar [info de promoción]({% link /assets/pdf/bodega_interior.pdf %})
+
 *Una Instalación de Nora Ancarola y Jacobo Sucari.
 
 

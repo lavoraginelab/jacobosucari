@@ -3,7 +3,7 @@ layout: page
 title: 'Ver el tiempo pasar. (2010)'
 description: 'Plano secuencia donde el tiempo transcurre frente al que contempla. Un tiempo no lineal donde los muertos habitan el paisaje. La historia es actualización. La creación de un aquí y ahora donde el relato eterniza el presente.'
 img: assets/img/La_contemplacion.jpg
-importance: 3
+importance: 6
 category: creacion
 
 

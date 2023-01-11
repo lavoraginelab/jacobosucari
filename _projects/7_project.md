@@ -1,11 +1,10 @@
 ---
 layout: page
 title: 'La ciudad transformada (2008)'
-description: |
-'El Documental Expandido “La ciutat transformada” es un trabajo en formato audiovisual para sala expositiva mediante tres proyecciones de vídeo simultáneas y un Timeline interactivo en Internet.
+description: 'El Documental Expandido “La ciutat transformada” es un trabajo en formato audiovisual para sala expositiva mediante tres proyecciones de vídeo simultáneas y un Timeline interactivo en Internet.
 “La ciutat transformada” refleja el debate sobre el conjunto fabril de “Can Ricart”, una construcción emblemática del S. XVIII donde los planes de actuación municipales y la resistencia vecinal han creado un fértil campo de lucha que se ha erigido como símbolo de las mutaciones, contradicciones y conflictos que se suceden en nuestras ciudades, donde la participación ciudadana parece un dato aún no integrado por el poder político.'
 img: assets/img/La-ciutat-instalacion.jpg
-importance: 3
+importance: 7
 category: instalacion
 
 

@@ -5,9 +5,15 @@ description: 'El antiguo espacio fabril de Can Ricart se salvó del derribo al q
 img: assets/img/can_ricart.jpg
 importance: 3
 category: documental
-vimeoID: 
+vimeoId: 49148585
 
 ---
+<hr />
+{% include vimeoPlayer.html id=page.vimeoId %}
+<hr />
+
+Descargar [info de promoción]({%link /assets/pdf/destruir_y_construir.pdf%})
+
 *Documental. 52 minutos.*
 
 >## Ficha Técnica:

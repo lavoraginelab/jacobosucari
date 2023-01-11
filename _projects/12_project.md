@@ -7,9 +7,13 @@ Es ilusorio pensar que un trabajo pueda responder  a todo esto, pero también se
 img: assets/img/conductas_ilusorias.jpg
 importance: 3
 category: instalacion
+vimeoId: 
 
 
 ---
+
+Descargar [info de promoción]({% link /assets/pdf/conductas_ilusorias.pdf %})
+
 *Una Instalación de Nora Ancarola y Jacobo Sucari.
 
 

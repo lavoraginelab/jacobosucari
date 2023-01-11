@@ -5,7 +5,13 @@ description: '"Akha en la frontera" es el testimonio de la desaparición de una 
 img: assets/img/akha.jpg
 importance: 1
 category: documental
+vimeoId: 318842010
+
 ---
+
+{% include vimeoPlayer.html id=page.vimeoId %}
+
+<hr />
 - Akha a la frontera. (2019).
 - Documental. 49 min.
 
