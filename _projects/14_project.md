@@ -8,7 +8,6 @@ img: assets/img/relatos_de_la_periferia.jpg
 importance: 3
 category: documental
 VimeoId: 59125003
-
 ---
 <hr />
 {% include vimeoPlayer.html id=page.vimeoId %}
@@ -16,7 +15,7 @@ VimeoId: 59125003
 
 Descargar [info de promoción]({% link /assets/pdf/la_caida.pdf %})
 
-*Documental: 54 minutos.
+Documental: 54 minutos.
 
 
 
