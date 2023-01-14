@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'directos música'
+title: 'música'
 permalink: /repositories/
 description: Actuaciones en directo.
 nav: true
