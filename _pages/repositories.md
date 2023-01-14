@@ -5,7 +5,6 @@ permalink: /repositories/
 description: Actuaciones en directo.
 nav: true
 nav_order: 4
-display_categories: [documental, instalacion, creacion]
 horizontal: false
 ---
 ## Actuaciones musicales
