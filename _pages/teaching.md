@@ -4,7 +4,7 @@ permalink: /teaching/
 title: seminarios
 description: Materials for courses 
 nav: true
-nav_order: 4
+nav_order: 6
 ---
 
 **Workshops y seminarios:**

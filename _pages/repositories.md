@@ -1,33 +1,16 @@
 ---
 layout: page
+title: 'directos música'
 permalink: /repositories/
-title: links
-description: 
+description: Actuaciones en directo.
 nav: true
-nav_order: 5
+nav_order: 4
+display_categories: [documental, instalacion, creacion]
+horizontal: false
 ---
-Instalación - Site: El conflicte de Can Ricart,  una cronologia interactiva.  
-Ir a web > [http://canricart.info/](http://canricart.info/)
+## Actuaciones musicales
 
-Instalación Disciplina. La Capella-La Virreyna exposicions:  
-Ir a web > [http://www.bcn.cat/lacapella/anterior/\_lacapella/030128\_disciplina\_e.htm](http://www.bcn.cat/lacapella/anterior/_lacapella/030128_disciplina_e.htm)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c00vZyR_yME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-MIS: Museo de imagen y sonido San Paulo:  
-Ir a web > [](http://www.mis-sp.org.br/icox/icox.php?mdl=mis&op=programacao_interna&id_event=405)[http://www.mis-sp.org.br/icox/icox.php?mdl=mis&op=programacao\_interna&id\_event=405](http://www.mis-sp.org.br/icox/icox.php?mdl=mis&op=programacao_interna&id_event=405)
+Actuación en directo de Jacobo Sucari saxo + DJ BLU + Dani Miracle Video, en The G's Club 2001
 
-Escuela de Cine de San Antoño de los Baños. Cuba.  
-Ir a web > [http://www.eictv.org/](http://www.eictv.org/)
-
-Hamaca. Distribuidora de Videoart.  
-Ir a web > [http://www.hamacaonline.net/autor.php?id=147](http://www.hamacaonline.net/autor.php?id=147)
-
-Motion Picture. Distribución TV  
-Ir a web > [](http://www.motionpic.com/worldwide-documentaries-documentaries-info.php?id=19&pageNum_mundoc=0)[http://www.motionpic.com/worldwide-documentaries-documentaries-info.php?id=19&pageNum\_mundoc=0](http://www.motionpic.com/worldwide-documentaries-documentaries-info.php?id=19&pageNum_mundoc=0)
-
-Grupo Hermes. Investigación sobre interfaces.  
-Ir a web > [http://grupsderecerca.uab.cat/hermes/es/content/jacobo-sucari?destination=node%2F282](http://grupsderecerca.uab.cat/hermes/es/content/jacobo-sucari?destination=node%2F282)
-
-Texto de laTesis Doctoral de Jacobo Sucari:" El Documental expandido, pantalla y espacio".  
-[http://hdl.handle.net/10803/52895](http://hdl.handle.net/10803/52895)
-
-[google-site-verification: googlee0f3c684923b77aa.html](https://www.jacobosucari.com/links//http://google-site-verification: googlee0f3c684923b77aa.html)

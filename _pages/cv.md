@@ -3,7 +3,7 @@ layout: cv
 permalink: /cv/
 title: curriculum
 nav: true
-nav_order: 3
+nav_order: 5
 cv_pdf: CV-Jacobo-Sucari.pdf
 ---
 
