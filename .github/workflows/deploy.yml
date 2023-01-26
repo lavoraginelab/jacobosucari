@@ -9,10 +9,7 @@ on:
     branches:
       - master
       - main
-permissions:
-  pull-requests: write
-  contents: write
-  repository-projects: write
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
