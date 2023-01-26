@@ -8,9 +8,7 @@ category: documental
 vimeoId: 31718351
 
 ---
-<hr />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KGHijPtDOmc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</hr>
+{% include vimeoPlayer.html id=page.vimeoId %} 
 
 ## Ficha Técnica
 >Guión-Realización Cámara y Edición: Jacobo Sucari
