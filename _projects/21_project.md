@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 'REM. Estudios sobre el comportamiento nocturno' 
+title: 'REM. Estudios sobre el comportamiento nocturno (1998)'
 description: '"REM, Estudios sobre el comportamiento nocturno" es un Documental sobre la gestación de imágenes mentales -el sueño, la imaginación-; y su resonancia en la imagen en movimiento de los medios de comunicación de masas: el cine y la TV. El Documental REM... se articula pues, sobre dos aguas: La investigación científica y paracientífica sobre los sueños y comportamiento del cerebro mientras dormimos: estudios realizados en laboratorio sobre el comportamiento y medición de los estados de conciencia nocturnos, del Psicoanálisis , el Sueño Dirigido, y el Yoga de los Sueños Tibetano.'
 img: assets/img/REM.jpg
-importance: 3
-category: creacion
-vimeoId: 
+importance: 8
+category: documental
+vimeoId: 31718351
 
 ---
 <hr />
