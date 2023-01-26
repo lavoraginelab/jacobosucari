@@ -12,9 +12,12 @@ vimeoId:
 
 ## Ficha Técnica
 >Proyecto y Realización; Jacobo Sucari. 
-Edición: AVID. 
-Producción: J. Sucari/Generalitat de Catalunya.
-Año: 1996.
+>
+>Edición: AVID. 
+>
+>Producción: J. Sucari/Generalitat de Catalunya.
+>
+>Año: 1996.
 
 
 
