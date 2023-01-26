@@ -9,7 +9,7 @@ category: documental
 vimeoId: 147625996 
 
 ---
-
+{% include vimeoPlayer.html id=page.vimeoId %} 
 ## Ficha Técnica
 >Proyecto y Realización; Jacobo Sucari. 
 >
