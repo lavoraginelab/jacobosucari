@@ -11,8 +11,8 @@ description: >-
   W.Gombrowicz. (diarios)
 img: assets/img/Disciplina.jpg
 importance: 3
-category: documental
-vimeoId: 8591522
+category: instalacion
+vimeoId: 704889555
 published: true
 ---
 
