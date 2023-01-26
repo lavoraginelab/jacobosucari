@@ -4,6 +4,7 @@ title:  'Documental:  Lina Bo Bardi: del vidrio al barro'
 date: 2022-08-28 21:01:00
 description: 'Una joven arquitecta en Brasil, venida de la Italia de postguerra'
 categories: documentales lina-bo-bardi arquitectura
+
 ---
 
 
@@ -39,6 +40,8 @@ el COAC: Col·legi d’Arquitectes de Barcelona, Arquitectes. Cat;
 la Facultad de Belles Arts, Universitat de Barcelona, LabMedia del Departament de Imatge i Arts Visuals de Belles Arts;
 el Instituto Lina Bo y Pietro Bardi, de Sao Paulo.
 Año de producción: Barcelona, 2021-2022.
+VimeoId: 631378495
+
 ```
 
 ## DOCUMENTARY FILM: LINA BO BARDI, FROM GLASS TO MUD. 
