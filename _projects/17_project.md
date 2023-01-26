@@ -7,9 +7,12 @@ Imagen mental, en el caso de la memoria, archivo personal y subjetivo de una exp
 img: assets/img/paralisis.jpg
 importance: 3
 category: documental
-vimeoId: 
+vimeoId: 31531715
 
 ---
+<hr />
+{% include vimeoPlayer.html id=page.vimeoId %}
+<hr />
 
 
 
