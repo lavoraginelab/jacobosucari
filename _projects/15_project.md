@@ -14,10 +14,11 @@ importance: 3
 category: instalacion
 vimeoId: 704889555
 published: true
+
 ---
 
 <hr />
 {% include vimeoPlayer.html id=page.vimeoId %}
 <hr />
 
-*Documental: 54 minutos.
+*DEMO: 4 min.
