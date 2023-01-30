@@ -8,6 +8,9 @@ category: documental
 vimeoId: 31161233
 
 ---
+<hr />
+{% include vimeoPlayer.html id=page.vimeoId %}
+<hr />
 
 ## Ficha Técnica
 >Documental de creación. 
