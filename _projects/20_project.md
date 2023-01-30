@@ -5,7 +5,7 @@ description: 'Documental-reportaje sobre el estado de la ciencia en Catalunya y 
 img: assets/img/la_maquina_de_newton.jpg
 importance: 3
 category: creacion
-vimeoId: 
+vimeoId: 31293437
 
 ---
 <hr />
