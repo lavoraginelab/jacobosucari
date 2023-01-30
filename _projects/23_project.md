@@ -5,9 +5,13 @@ description: 'Existen en el mundo profesiones de índole diversa. Este Vídeo de
 img: assets/img/archivos_publicos.jpg
 importance: 3
 category: creacion
-vimeoId: 
+vimeoId: 147359965
 
 ---
+<hr />
+{% include vimeoPlayer.html id=page.vimeoId %}
+<hr />  
+
 
 ## Ficha Técnica
 >Video de creación. 
