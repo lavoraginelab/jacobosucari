@@ -14,6 +14,6 @@ vimeoId:
 
 Descargar [info de promoción]({% link /assets/pdf/conductas_ilusorias.pdf %})
 
-*Una Instalación de Nora Ancarola y Jacobo Sucari.
+
 
 
