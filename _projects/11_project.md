@@ -8,6 +8,7 @@ img: assets/img/En-la-interior-bodega.jpg
 importance: 3
 category: instalacion
 vimeoId: 148328189
+
 ---
 
 <hr />
