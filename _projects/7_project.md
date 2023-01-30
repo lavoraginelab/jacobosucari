@@ -14,4 +14,4 @@ vimeoId: 335589658
 <hr />
 
 
- >Ficha técnica: Proyecto, Realización y Edición de Multipantalla: Jacobo Sucari. Creación, programación y documentación del Site: Josep Saldaña Cavallé amb la col.laboració de “Area de Televisió” i “Televisió de Catalunya”. Proyección Multipantalla y Site en Internet.  3 proyectores sincronizados y 5 altavoces. Ordenador. Formato: Medidas variables. Duración: 50 min. – 
+ >Ficha técnica: Proyecto, Realización y Edición de Multipantalla: Jacobo Sucari. Creación, programación y documentación del Site: Josep Saldaña Cavallé amb la col.laboració de “Area de Televisió” i “Televisió de Catalunya”. Proyección Multipantalla y Site en Internet.  3 proyectores sincronizados y 5 altavoces. Ordenador. Formato: Medidas variables. DEMO: 01:15 min. – 
