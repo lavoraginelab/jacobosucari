@@ -5,7 +5,13 @@ description: 'Plano secuencia donde el tiempo transcurre frente al que contempla
 img: assets/img/La_contemplacion.jpg
 importance: 6
 category: creacion
-
+vimeoId: 125901459
 
 ---
+<hr />
+{% include vimeoPlayer.html id=page.vimeoId %}
+<hr />
+
+
+
  >FICHA TÉCNICA: Re-elaboración del Vídeo “La Contemplación”. Audio y Vídeo: Jacobo Sucari. Duración: 5:48. Barcelona 2004 – 2010.
