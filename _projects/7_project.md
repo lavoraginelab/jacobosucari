@@ -6,7 +6,12 @@ description: 'El Documental Expandido “La ciutat transformada” es un trabajo
 img: assets/img/La-ciutat-instalacion.jpg
 importance: 7
 category: instalacion
-
+vimeoId: 335589658
 
 ---
+<hr />
+{% include vimeoPlayer.html id=page.vimeoId %}
+<hr />
+
+
  >Ficha técnica: Proyecto, Realización y Edición de Multipantalla: Jacobo Sucari. Creación, programación y documentación del Site: Josep Saldaña Cavallé amb la col.laboració de “Area de Televisió” i “Televisió de Catalunya”. Proyección Multipantalla y Site en Internet.  3 proyectores sincronizados y 5 altavoces. Ordenador. Formato: Medidas variables. Duración: 50 min. – 
