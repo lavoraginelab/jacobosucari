@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Israel on my mind "
-date: 2022-11-04 17:39:00
+date: 2022-11-04
 description: 'Israel on my mind es una película que indaga sobre el pasado, el presente y el futuro de Israel. Un territorio sumido en guerra desde hace más de setenta años, y en medio de una coyuntura local muy compleja. Dos ciudadanos israelíes nos relatan su anclaje en esta tierra de ardiente intensidad e iluminaciones desbastadoras.'
 categories: israel documentales
 ---
