@@ -27,7 +27,8 @@ Combino trabajos documentales en formatos expandidos (multipantalla e instalaci�
 
 Mi trabajo en el ámbito artístico y documental ha sido presentado en distintos espacios y contextos, tanto en ámbitos propios de la tradición artística como museos y galerías, y en ámbitos de la tradición cinematográfica en festivales, cines y programación en distintos canales de TV con quienes coproduje mis últimos trabajos documentales en asociación con mi propia productora, _La Trinxera Audiovisual_. He recibido distintos premios por mis creaciones audiovisuales y subvenciones institucionales para la realización de mis proyectos.
 <hr />
-
+<br />
+<br />
 
 {% include vimeoPlayer.html id=page.vimeoId %}
 <hr />
