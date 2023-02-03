@@ -10,6 +10,7 @@ vimeoID:
 <div class="container">
   <div class="row">
     <div class="col-sm">
+      
     {% include figure.html path="assets/pdf/proyectos_frustrados.jpg" class="img-fluid rounded z-depth-1" %} 
 
     </div>
