@@ -5,12 +5,12 @@ description: 'Documental-reportaje sobre el estado de la ciencia en Catalunya y 
 img: assets/img/la_maquina_de_newton.jpg
 importance: 3
 category: creacion
-vimeoId: 
+vimeoId: 31293437
 
 ---
 <hr />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KGHijPtDOmc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</hr>
+{% include vimeoPlayer.html id=page.vimeoId %}
+<hr />
 
 ## Ficha Técnica
 >Proyecto: Pepo Perez, Alicia Guasch, Jacobo Sucari. 

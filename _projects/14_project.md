@@ -7,13 +7,14 @@ El Delta es una zona límite de fricciones entre una loca exuberancia natural y 
 img: assets/img/relatos_de_la_periferia.jpg
 importance: 3
 category: documental
-VimeoId: 59125003
+vimeoId: 31934220
+
 ---
 <hr />
 {% include vimeoPlayer.html id=page.vimeoId %}
 <hr />
 
-Descargar [info de promoción]({% link /assets/pdf/la_caida.pdf %})
+Descargar [info de promoción]({% link /assets/pdf/relatos_de_la_periferia.pdf %})
 
 Documental: 54 minutos.
 

@@ -1,10 +1,11 @@
 ---
 layout: post
+date: 2023-01-31 11:59:00
 title: "En preparación: 'El mite de l'absent. Homenatge a Walter Benjamin'"
-date: 2022-12-31 11:59:00-0400
 description: 'Una pel·lícula escrita i dirigida per Jacobo Sucari. En col·laboració amb “La Virreina, Centre de la imatge de Barcelona”, Ajuntament de Barcelona- ICUB (Institut de Cultura de Barcelona).'
 categories: walter-benjamin documentales 
 vimeoID: 758002074
+
 ---
 
 >Teaser 04 :39 minutes

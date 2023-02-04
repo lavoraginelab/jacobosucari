@@ -2,6 +2,7 @@
 layout: post
 date: 2022-10-22 
 inline: true
+
 ---
 
 El mito del ausente, homenaje a Walter Benjamin
